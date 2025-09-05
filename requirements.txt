@@ -1,0 +1,27 @@
+# Core PyTorch
+torch
+torchvision
+torchaudio
+
+# PyTorch Geometric (Windows-compatible)
+torch-geometric
+
+# Data & ML utilities
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+networkx
+
+# Kafka + streaming
+kafka-python
+faust
+
+# Dashboard & explainability
+streamlit
+shap
+
+# Database
+sqlite-utils
+psycopg2-binary
